@@ -3,6 +3,7 @@
 Welcome to my little space in the web!
 Here you can review my projects, please give me feedback. 
 
+Math Applies and Computing student, UNAM 
 Member of [cidwa](https://sites.google.com/acatlan.unam.mx/cidwa/) (Club de Investigación y Desarrollo Web de Acátlan)
 
 #### Actual
