@@ -3,7 +3,7 @@
 Welcome to my little space in the web!
 Here you can review my projects, please give feedback. 
 
-Member of cidwa (Club de Investigación y Desarrollo Web de Acátlan), here's our page: https://sites.google.com/acatlan.unam.mx/cidwa/
+Member of [cidwa](https://sites.google.com/acatlan.unam.mx/cidwa/) (Club de Investigación y Desarrollo Web de Acátlan): 
 
 #### Actual
 In this moment i'm reading <em>clean code</em> written by <strong>Robert Cecil Mart </strong>, I will add notes about this in [this repo](https://github.com/FlymsS/Clean-Code-notes/blob/main/README.md).
